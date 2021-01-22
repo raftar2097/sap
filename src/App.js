@@ -33,7 +33,7 @@ class App extends Component {
           <Container>
             <h1>Workbench</h1>
             <p>
-              This is a modified workbench that gives info about repo,create document and folders.
+              This is a modified workbench that give info about repo,create document and folders.
             </p>
           </Container>
         </Jumbotron>
